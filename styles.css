@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.container{
+  max-width: 420px;
+  margin: 0 auto;
+}
+
+h1{
+  font-size: 35px;
+  text-align: center;
+  margin: 20px;
+}
+
+
+
+.start-text{
+  font-size: 26px;
+  text-align: center;
+  padding: 20px;
+}
+
+#group-btn{
+  display: flex;
+  width: 150px;
+  object-fit: cover;
+}
+
+#group-btn > button > img{
+  width: 150px;
+  
+}
